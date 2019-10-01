@@ -1,1 +1,1 @@
-select * from dba_objects;
+select * from dba_objects order by object_name;
